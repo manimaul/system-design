@@ -5,3 +5,5 @@ authors = ["William Kamp <manimaul@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+tempfile = "3.0.5"
+rev_lines = "0.2.1"
